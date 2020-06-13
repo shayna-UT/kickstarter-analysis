@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaigns
 ## Performing analysis on Kickstarter data to uncover trends.
 ---
-## Summary 
+### Summary 
 #### I have partnered up with Louise, an up and coming playwright, to help her start a crowdfunding campaign for her play, Fever. She is currently estimating a budget of over $10,000, possibly up to $12,000, to produce the play in the United States. In addition, she is interested in musicals in Great Britain. I have organized, sorted, and analyzed crowdfunding data in Excel to help determine which factors make a project’s campaign most successful. The data insights have helped me to provide Louise with the information she needs to mirror a successful campaign. 
 ---
-## Analysis
+### Analysis
 #### In order to begin drawing conclusions from the dataset, I have conditionally formatted the outcomes to easily identify which campaigns were successful, live, failed, or canceled. In addition, the percentage funded of each campaign has been conditionally formatted so Louise will be able to recognize how close each campaign was to reaching its funding goal. These conditional formats will aid Louise in further analyzing the data once I have provided her with my conclusions.  
 ---
 #### Since Louise is specifically interested in creating a funding campaign for plays, the “Category and Subcategory” column has been split into “Parent Category” and “Subcategory” to include more data for further analysis of theater campaigns. Taking a look into which parent categories did or did not perform well in the United States, a pivot chart of Parent Category Outcomes in the U.S. was created and can be viewed below. 
@@ -47,7 +47,7 @@
 ---
 #### The box and whisker plot shows that the mean goal is £4,000, however the mean pledged is only about £1,000. It would be best if Louise could drive down her costs, especially since even the median goal of musicals in Great Britain is £2,000 and outside the 3rd quartile of what was actually pledged to the campaigns.  
 ---
-## Conclusion
+### Conclusion
 #### I recommend that Louise start a theater Kickstarter campaign for plays in the United States. Previous campaigns have shown us that play Kickstarters tend to be successful. We will however need to further investigate the probability of success since her fundraising goal of $10,000 - $12,000 is greater than the mean and median pledged amounts for similar campaigns. 
 ---
 #### It was also discovered that one of the driving factors in a successful campaign is the launch date. I recommend that Louise launch her campaign in either the month of May or June and stay away from launching her campaign close to December.     
