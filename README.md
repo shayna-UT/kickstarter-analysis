@@ -39,7 +39,7 @@
 ---
 #### In a box and whisker plot, the box shows the interquartile range (IQR). An “X” inidicates the mean and a line through the box indicates the median. The whiskers show the extreme values that fall within 1.5 x IQR. Finally, the outliers (values greater than 1.5 x IQR) are shown as dots.   
 ---
-### Since the mean goal and mean pledged amounts are about $5,000 and Louise is estimating over $10,000, she may want to investigate plays with higher goals further. Successful plays with goals greater than $10,250 and pledges exceeding $11,672 are considered outliers of the data set. How this will effect Louise’s campaign will need to be determined. 
+#### Since the mean goal and mean pledged amounts are about $5,000 and Louise is estimating over $10,000, she may want to investigate plays with higher goals further. Successful plays with goals greater than $10,250 and pledges exceeding $11,672 are considered outliers of the data set. How this will effect Louise’s campaign will need to be determined. 
 ---
 #### Similarly as above, I have also looked into musicals in Great Britain. Specifically, Louise is interetsed in musicals in Great Britain and currently has an estimated budget of £4,000. 
 ---
@@ -50,6 +50,20 @@
 ## Conclusion
 #### I recommend that Louise start a theater Kickstarter campaign for plays in the United States. Previous campaigns have shown us that play Kickstarters tend to be successful. We will however need to further investigate the probability of success since her fundraising goal of $10,000 - $12,000 is greater than the mean and median pledged amounts for similar campaigns. 
 ---
-### It was also discovered that one of the driving factors in a successful campaign is the launch date. I recommend that Louise launch her campaign in either the month of May or June and stay away from launching her campaign close to December.     
+#### It was also discovered that one of the driving factors in a successful campaign is the launch date. I recommend that Louise launch her campaign in either the month of May or June and stay away from launching her campaign close to December.     
 ---
 #### In addition, I recommend that Louise reconsider launching a musical in Great Britain. It was observed that plays tend to be more successful compared to musicals in this country. Also, the mean campaign pledges for musicals in Great Britain is £1,000, indicating £4,000 is most likely too large of a goal amount. 
+---
+### Challenge 
+---
+#### I have reviewed the Kickstarter campaign data further and have additional updates for Louise. Further analysis has revealed that money is a driving factor of campaign success. Also, May is the best month to start a theater Kickstarter campaign. 
+---
+#### The outcomes (successful, failed, or canceled) of all theater-play campaigns have been evaluated based on goal fundraising amounts. In the plot below, it can be observed that the highest probability of a successful campaign is for those that have a goal of less than $5,000, with a percent of success at about 75%. The percentage of successful campaigns then drops to about 55% after $5000, and decreases by an additional 10% once goal amounts reach $24999. Although there is an increase of campaign success for those with goals above $25000, the number of campaigns with goals that high is much less. Therefore, the data may be inaccurate due to the smaller sample size. Louise should be cautious of the success rates for campaigns with goals above $25000. 
+---
+![Outcomes_Based_on_Goals](Folder/Outcomes%20Based%20on%20Goals.png)
+---
+#### Louise’s play campaign falls within the goal range of $10000 to $14999, which has a percentage of success of 54%. To help make sure Louise’s plan is on the successful side, it should be launched in the month of May. A plot of theater campaign outcomes and their launch dates has been plotted below. From the plot, it can be observed that May has the highest number of successful campaigns. For further analysis, Louise should narrow down her observations to look at the number of successful plays specifically in the U.S., where she is planning on starting her campaign. 
+---
+![Outcomes_Based_on_Launch_Date](Folder/Outcomes%20Based%20on%20Launch%20Date.png)
+---
+#### Overall, Louise is on track for a successful campaign. Although her goal amount is higher than the mean and median successful pledge amounts, there is still a 54% chance of success. Also, her chances of success are increased if she launches the campaign in May and stays away from launching it close to the end of the year. I recommend that Louise also consider narrowing her search of launch dates specifically to plays in the United States. Another additional factor I would suggest Louise investigate is duration of campaign. If a campaign is too short, it may decrease her chances of success. Finally, the number of backers could also impact her chances of success. 
